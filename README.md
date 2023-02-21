@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quinfer
-- 👀 I’m interested in the `con` in econometrics
+- 👀 I’m interested in exposing the `con` in econometrics
 - 🌱 I’m currently learning probabilistic machine learning from [Kevin Murphy's fantastic books](https://probml.github.io/pml-book/book1.html)
 - 💞️ I’m looking to collaborate on financial machine learning packages
 - 📫 How to reach me  b.quinn@qub.ac.uk
