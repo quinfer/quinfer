@@ -17,7 +17,7 @@ I welcome enquiries from researchers, PhD candidates, and industry partners work
 ## 📫 Contact
 - Email: [b.quinn1@ulster.ac.uk](mailto:b.quinn1@ulster.ac.uk)  
 - ORCID: [0000-0002-8637-9060](https://orcid.org/0000-0002-8637-9060)  
-- Personal site: [quinfer.github.io/resume](https://quinference.com)  
+- Personal site: [quinference](https://quinference.com)  
 
 ---
 
