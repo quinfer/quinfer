@@ -1,20 +1,23 @@
-# 👋 Hi, I’m Barry Quinn (@quinfer)
+**👋 Hi, I'm Barry Quinn (@quinfer)**
 
-I’m a Professor of Finance & Financial Technology at Ulster University Business School, and an applied [CStat](https://rss.org.uk/membership/professional-development/chartered-statistician/) statistician specialising in trustworthy quantitative research in finance.  
-My research focuses on the intersection of **econometrics, machine learning, and financial markets** — with particular interests in regulatory technology, algorithmic trading risk, and reproducible data science.  
+I'm Professor of Finance and Financial Technology at Ulster University Business School. My background combines nine years as a currency trader and liquidity manager in London with two decades of academic work as a Chartered Statistician and applied econometrician.
 
-## 🔍 Interests
-- Statistical Science in Finance and Trustworthy Econometrics  
-- Financial machine learning & trustworthy AI methods  
-- Regulation, policy, and risk in financial markets  
+My research sits at the intersection of statistical learning, econometric inference, and financial markets, with a particular focus on algorithmic accountability and the governance of algorithmic systems in finance.
 
-## 🤝 Collaboration
-I’m always open to collaborations on **financial machine learning packages**, **applied econometrics tools**, and **open science projects**.  
+**🔬 Research Themes**
+
+- Trustworthy quantitative methods for financial markets
+- Statistical learning and econometric inference under model uncertainty
+- Algorithmic accountability and the governance of AI in finance
+
+**🤝 Collaboration**
+
+I welcome enquiries from researchers, PhD candidates, and industry partners working on reproducible empirical methods, open-source statistical tooling for finance, and the responsible deployment of algorithmic systems in regulated markets.
 
 ## 📫 Contact
 - Email: [b.quinn1@ulster.ac.uk](mailto:b.quinn1@ulster.ac.uk)  
 - ORCID: [0000-0002-8637-9060](https://orcid.org/0000-0002-8637-9060)  
-- Personal site: [quinfer.github.io/resume](https://quinfer.github.io/resume/)  
+- Personal site: [quinfer.github.io/resume](https://quinference.com)  
 
 ---
 
