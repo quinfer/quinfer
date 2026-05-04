@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Barry Quinn (@quinfer)
 
-I’m a Professor of Finance & FinTech at Ulster University Business School, and an applied econometrician and Chartered Statistician.  
-My research focuses on the intersection of **econometrics, AI, and financial markets** — with particular interests in regulatory technology, algorithmic trading risk, and reproducible data science.  
+I’m a Professor of Finance & Financial Technology at Ulster University Business School, and an applied [CStat](https://rss.org.uk/membership/professional-development/chartered-statistician/) statistician specialising in trustworthy quantitative research in finance.  
+My research focuses on the intersection of **econometrics, machine learning, and financial markets** — with particular interests in regulatory technology, algorithmic trading risk, and reproducible data science.  
 
 ## 🔍 Interests
-- Econometrics as an applied statistical discipline  
+- Statistical Science in Finance and Trustworthy Econometrics  
 - Financial machine learning & trustworthy AI methods  
 - Regulation, policy, and risk in financial markets  
 
